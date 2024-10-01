@@ -7,3 +7,4 @@ Let's try implementing linking feature again!
 - More... I won't reference the issue to see if it gets closed because it is linked
 - issue... again
 - Should close now
+last one
