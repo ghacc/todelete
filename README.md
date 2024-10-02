@@ -10,4 +10,4 @@ Let's try implementing linking feature again!
 - Should close now
   last one
 
-A small change to see if commitlint is working (it shouldn't)
+A small change to see if commitlint is working (it shouldn't). Ok, now please do your job!
