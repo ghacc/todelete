@@ -28,3 +28,11 @@ jobs:
         env:
           # To report GitHub Actions status checks
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ENABLE_COMMITLINT_STRICT_MODE: true
+          ENFORCE_COMMITLINT_CONFIGURATION_CHECK: true
+          FIX_JAVASCRIPT_PRETTIER: true
+          VALIDATE_GIT_COMMITLINT: true
+          VALIDATE_JAVASCRIPT_PRETTIER: true
+          CREATE_LOG_FILE: true
+          
+          
